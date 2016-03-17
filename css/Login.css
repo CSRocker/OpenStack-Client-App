@@ -1,0 +1,23 @@
+@CHARSET "UTF-8";
+h1 {
+  font-size: 2em;
+  font-weight: bold;
+  color: red;
+  margin: 40px 0px 70px;
+  text-align: center;
+   font-family: Verdana
+  
+}
+
+
+Label{
+  display: block;
+    font-size: 12pt;
+  font-family: Verdana
+}
+
+
+
+
+input[type=submit] {padding:5px 15px; background:#ccc; border:1 none;
+

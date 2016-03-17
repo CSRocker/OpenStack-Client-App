@@ -1,0 +1,31 @@
+@CHARSET "UTF-8";
+h1 {
+  font-size: 2em;
+  font-weight: bold;
+  color: red;
+  margin: 40px 0px 70px;
+  text-align: center;
+   font-family: Verdana
+  
+}
+
+h2 {
+  font-size: 16pt;
+  color: red;
+  margin: 40px 0px 70px;
+  text-align: center;
+   font-family: Verdana
+  
+}
+
+Label{
+  display: block;
+  font-size: 12pt;
+  font-family: Verdana
+}
+
+Button
+{
+	padding:30px; background:red; border:1;
+	
+}
